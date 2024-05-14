@@ -1,9 +1,5 @@
 ﻿# Site_Marcos_Penha
 
-Teste 
-
-Teste 2
-
 ## Como trabalhar com VSCode + Git + GitHub = Workflow Dev
 - O POWERSHELL - É o terminal do Windows
 - Git - Ajuda a mandar nossos arquivos para o GitHub e controla a versão deles
